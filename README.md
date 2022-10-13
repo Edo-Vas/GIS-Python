@@ -1,4 +1,4 @@
-# GIS-Python
+# Geemap-POI-Analyzer 
 
 Hello world!
 
